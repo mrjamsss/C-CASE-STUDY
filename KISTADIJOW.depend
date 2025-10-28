@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1733387789 source:c:\users\jorald\documents\cc-103\kistadijow\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<iomanip>
+	<cmath>
+	<limits>
+	<algorithm>
+	<set>
+	<sstream>
+	<fstream>
+
